@@ -1,0 +1,5 @@
+target/
+.idea/
+*.iml
+screenshots/
+downloads/
