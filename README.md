@@ -26,25 +26,28 @@ mvn test                     # headed
 mvn test -Dheadless=true     # headless
 ```
 Requires Java 17+ and Chrome. Selenium Manager fetches the driver.
+In case of test failure, a screenshot is saved to screenshots/.
 
 ## Structure
 TODO
 
 ## Coverage
 
-14 pages under test (planned)
+14 pages planned. 
 
-1. Form Authentication 
-2. Checkboxes
-3. Dropdown
-4. Dynamic Loading
-5. JavaScript Alerts
-6. File Upload
-7. Add/Remove Elements
-8. Hovers
-9. Multiple Windows
-10. Broken Images
-11. Frames
-12. Status Codes
-13. Sortable Data Tables
-14. Secure File Download
+| # | Page | Status | Tests |
+|---|------|--------|-------|
+| 1 | Form Authentication | Done | valid login, invalid password, invalid username, logout |
+| 2 | Checkboxes | Planned | |
+| 3 | Dropdown | Planned | |
+| 4 | Dynamic Loading | Planned | |
+| 5 | JavaScript Alerts | Planned | |
+| 6 | File Upload | Planned | |
+| 7 | Add/Remove Elements | Planned | |
+| 8 | Hovers | Planned | |
+| 9 | Multiple Windows | Planned | |
+| 10 | Broken Images | Planned | |
+| 11 | Frames | Planned | |
+| 12 | Status Codes | Planned | |
+| 13 | Sortable Data Tables | Planned | |
+| 14 | Secure File Download | Planned | |
