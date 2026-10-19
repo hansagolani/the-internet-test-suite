@@ -35,19 +35,19 @@ TODO
 
 14 pages planned. 
 
-| # | Page | Status | Tests |
-|---|------|--------|-------|
-| 1 | Form Authentication | Done | valid login, invalid password, invalid username, logout |
-| 2 | Checkboxes | Planned | |
-| 3 | Dropdown | Planned | |
-| 4 | Dynamic Loading | Planned | |
-| 5 | JavaScript Alerts | Planned | |
-| 6 | File Upload | Planned | |
-| 7 | Add/Remove Elements | Planned | |
-| 8 | Hovers | Planned | |
-| 9 | Multiple Windows | Planned | |
-| 10 | Broken Images | Planned | |
-| 11 | Frames | Planned | |
-| 12 | Status Codes | Planned | |
-| 13 | Sortable Data Tables | Planned | |
-| 14 | Secure File Download | Planned | |
+| # | Page | Status  | Tests                                                                                             |
+|---|------|---------|---------------------------------------------------------------------------------------------------|
+| 1 | Form Authentication | Done    | valid login, invalid password, invalid username, logout                                           |
+| 2 | Checkboxes | Done    | default state, toggle each box, boxes independent, double toggle                                  |
+| 3 | Dropdown | Done    | default placeholder, select by text, select by value, switching, placeholder disabled, option list |
+| 4 | Dynamic Loading | Planned |                                                                                                   |
+| 5 | JavaScript Alerts | Planned |                                                                                                   |
+| 6 | File Upload | Planned |                                                                                                   |
+| 7 | Add/Remove Elements | Done    | initial state, add one, add many, delete one, delete all, button labels |
+| 8 | Hovers | Planned |                                                                                                   |
+| 9 | Multiple Windows | Planned |                                                                                                   |
+| 10 | Broken Images | Done | image count, loaded vs broken count, HTTP status vs rendered state |
+| 11 | Frames | Planned |                                                                                                   |
+| 12 | Status Codes | Planned |                                                                                                   |
+| 13 | Sortable Data Tables | Planned |                                                                                                   |
+| 14 | Secure File Download | Planned |                                                                                                   |
