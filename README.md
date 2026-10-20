@@ -40,14 +40,14 @@ TODO
 | 1 | Form Authentication | Done    | valid login, invalid password, invalid username, logout                                           |
 | 2 | Checkboxes | Done    | default state, toggle each box, boxes independent, double toggle                                  |
 | 3 | Dropdown | Done    | default placeholder, select by text, select by value, switching, placeholder disabled, option list |
-| 4 | Dynamic Loading | Planned |                                                                                                   |
-| 5 | JavaScript Alerts | Planned |                                                                                                   |
+| 4 | Dynamic Loading | Done | hidden-element and rendered-after-load examples, hidden before start, start button disappears |
+| 5 | JavaScript Alerts | Done | alert, confirm accept/dismiss, prompt with text, prompt dismissed |
 | 6 | File Upload | Planned |                                                                                                   |
 | 7 | Add/Remove Elements | Done    | initial state, add one, add many, delete one, delete all, button labels |
-| 8 | Hovers | Planned |                                                                                                   |
-| 9 | Multiple Windows | Planned |                                                                                                   |
+| 8 | Hovers | Done | captions hidden by default, caption per user, only hovered caption shown, profile link |
+| 9 | Multiple Windows | Done | opens second window, new window title/heading, switch back, close new window |
 | 10 | Broken Images | Done | image count, loaded vs broken count, HTTP status vs rendered state |
-| 11 | Frames | Planned |                                                                                                   |
+| 11 | Frames | Done | left, middle, right and bottom frames, switching between frames |
 | 12 | Status Codes | Planned |                                                                                                   |
 | 13 | Sortable Data Tables | Planned |                                                                                                   |
 | 14 | Secure File Download | Planned |                                                                                                   |
